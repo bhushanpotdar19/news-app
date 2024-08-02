@@ -3,15 +3,16 @@
     object-fit: cover;
     display: block;
     margin: 0 auto;
-    width: 365px;
+    width: 345px;
 }
 .news-article-card{
-    width: 370px;
-    border:1px solid white;
+    width: 350px;
+    border:1px solid  rgb(255, 221, 146);
     border-radius: 5px;
-    box-shadow: 0 0 10px black;
+    box-shadow: 0 0 15px 4px rgb(80, 55, 18);
     padding: 10px;
     margin: 25px;
+    background-color: rgb(255, 221, 146);
 }
 .article-title{
     font-size: 22px;
